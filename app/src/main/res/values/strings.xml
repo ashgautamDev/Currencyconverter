@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency converter</string>
+    <string name="heading">Currency Converter</string>
+    <string name="dummycurrency">12</string>
+</resources>
